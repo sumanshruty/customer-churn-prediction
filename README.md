@@ -9,3 +9,5 @@ Processes included:
 2. Data Cleaning
 3. Data Preporcessing
 4. Data Transformation
+
+Now lets see the data cleaning processes
